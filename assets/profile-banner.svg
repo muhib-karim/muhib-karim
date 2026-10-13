@@ -1,13 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-<title id="title">Muhib Karim - AI engineering and software verification</title>
-<desc id="desc">Original portfolio banner with connected test, evaluation and software nodes.</desc>
+<title id="title">Muhib Karim - AI evaluation, software verification and developer tools</title>
+<desc id="desc">Portfolio banner: name, focus areas and a small test-graph motif.</desc>
 <rect width="1280" height="360" fill="#fbfaf9"/>
-<path d="M64 294H1216" stroke="#eae9ea"/>
-<text x="64" y="72" font-family="Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="3" fill="#585254">ENGINEERING / VERIFICATION / OPEN SOURCE</text>
-<text x="60" y="162" font-family="Georgia,serif" font-size="68" fill="#251f21">Muhib Karim</text>
-<text x="64" y="216" font-family="Arial,sans-serif" font-size="24" fill="#585254">AI engineering. Software you can inspect.</text>
-<text x="64" y="331" font-family="Arial,sans-serif" font-size="17" fill="#585254">Evaluation tools · API verification · Voice interfaces</text>
-<g fill="none" stroke="#73a89a" stroke-width="3"><path d="M990 84L1122 174L990 262L900 174Z"/><path d="M990 84V262M900 174H1122"/></g>
-<g fill="#fbfaf9" stroke="#251f21" stroke-width="3"><circle cx="990" cy="84" r="14"/><circle cx="1122" cy="174" r="14"/><circle cx="990" cy="262" r="14"/><circle cx="900" cy="174" r="14"/></g><circle cx="990" cy="174" r="23" fill="#73a89a"/>
-<path d="M978 174L987 183L1003 165" fill="none" stroke="#251f21" stroke-width="3"/>
+<path d="M64 286H1216" stroke="#eae9ea"/>
+<text x="64" y="70" font-family="Liberation Sans,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#585254">AI EVALUATION / VERIFICATION &amp; VALIDATION / DEVELOPER TOOLS</text>
+<text x="60" y="158" font-family="DejaVu Serif,Georgia,serif" font-size="66" fill="#251f21">Muhib Karim</text>
+<text x="64" y="210" font-family="Liberation Sans,Arial,sans-serif" font-size="24" fill="#585254">Test engineer turned AI builder. Software you can inspect.</text>
+<g font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#251f21">
+<rect x="64" y="236" width="150" height="32" rx="16" fill="#e4efec"/><text x="84" y="257">pass@k evals</text>
+<rect x="226" y="236" width="196" height="32" rx="16" fill="#e4efec"/><text x="246" y="257">OpenAPI &#8594; tests</text>
+<rect x="434" y="236" width="170" height="32" rx="16" fill="#e4efec"/><text x="454" y="257">offline speech</text>
+<rect x="616" y="236" width="150" height="32" rx="16" fill="#e4efec"/><text x="636" y="257">LLM gateways</text>
+</g>
+<text x="64" y="326" font-family="Liberation Sans,Arial,sans-serif" font-size="17" fill="#585254">Automotive V&amp;V background · Python · TypeScript · Rust · CI on every featured repo</text>
+<g fill="none" stroke="#73a89a" stroke-width="3"><path d="M1010 76L1142 166L1010 254L920 166Z"/><path d="M1010 76V254M920 166H1142"/></g>
+<g fill="#fbfaf9" stroke="#251f21" stroke-width="3"><circle cx="1010" cy="76" r="14"/><circle cx="1142" cy="166" r="14"/><circle cx="1010" cy="254" r="14"/><circle cx="920" cy="166" r="14"/></g><circle cx="1010" cy="166" r="23" fill="#73a89a"/>
+<path d="M998 166L1007 175L1023 157" fill="none" stroke="#251f21" stroke-width="3"/>
 </svg>
