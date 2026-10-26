@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Muhib Karim: AI evaluation, verification and validation, developer tools" width="100%">
+  <img src="assets/profile-banner.png" alt="muhib-karim: AI evaluation, verification and validation, developer tools" width="100%">
 </p>
 
-# Muhib Karim
+# muhib-karim
 
 AI engineer · Software verification & validation · Australia
 
