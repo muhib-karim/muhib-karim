@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-<title id="title">Muhib Karim - AI evaluation, software verification and developer tools</title>
+<title id="title">muhib-karim - AI evaluation, software verification and developer tools</title>
 <desc id="desc">Portfolio banner: name, focus areas and a small test-graph motif.</desc>
 <rect width="1280" height="360" fill="#fbfaf9"/>
 <path d="M64 286H1216" stroke="#eae9ea"/>
 <text x="64" y="70" font-family="Liberation Sans,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#585254">AI EVALUATION / VERIFICATION &amp; VALIDATION / DEVELOPER TOOLS</text>
-<text x="60" y="158" font-family="DejaVu Serif,Georgia,serif" font-size="66" fill="#251f21">Muhib Karim</text>
+<text x="60" y="158" font-family="DejaVu Serif,Georgia,serif" font-size="66" fill="#251f21">muhib-karim</text>
 <text x="64" y="210" font-family="Liberation Sans,Arial,sans-serif" font-size="24" fill="#585254">Test engineer turned AI builder. Software you can inspect.</text>
 <g font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#251f21">
 <rect x="64" y="236" width="150" height="32" rx="16" fill="#e4efec"/><text x="84" y="257">pass@k evals</text>
