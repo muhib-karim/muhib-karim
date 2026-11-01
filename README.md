@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="muhib-karim: AI evaluation, verification and validation, developer tools" width="100%">
+  <img src="assets/profile-banner.png" alt="muhib-karim: AI evaluation, verification and validation, developer tools. Test engineer turned AI builder. Software you can inspect." width="100%">
 </p>
 
 # muhib-karim
